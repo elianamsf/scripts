@@ -1,1 +1,1 @@
-firefox
+echo oi > teste.txt
