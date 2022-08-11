@@ -1,2 +1,1 @@
-tilix infected
-echo Você foi infectado!
+xed teste.txt
